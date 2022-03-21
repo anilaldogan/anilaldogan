@@ -14,7 +14,7 @@
 <p align="center">📫 How to reach me <strong>anil@appac.ltd</strong></p>
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilaldogan&show_icons=true&locale=en" alt="anilaldogan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anilaldogan&show_icons=true&locale=en" alt="anilaldogan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilaldogan&" alt="anilaldogan" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilaldogan&show_icons=true&locale=en&layout=compact" alt="anilaldogan" /></p>
