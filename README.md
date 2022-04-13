@@ -1,5 +1,6 @@
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilaldogan&label=Profile%20views&color=0e75b6&style=flat" alt="anilaldogan" /> </p>
-
+-->
 ### <h1 align="center">Hi 👋, I'm Muhammet Anıl Aldoğan</h1>
 
 <h3 align="center">I am working as a backend developer at Appac Software and Electronics</h3>
@@ -19,6 +20,11 @@
 <br/>
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anilaldogan&show_icons=true&locale=en" alt="anilaldogan" /></p>
--->
+<p>
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilaldogan&layout=compact" alt="anilaldogan" />
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilaldogan&" alt="anilaldogan" /></p>
-
+-->
+<p>
+<img width="350px" src="https://github-readme-stats.vercel.app/api?username=anilaldogan&show_icons=true&theme=dark" alt="anilaldogan" />
+</p>
