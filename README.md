@@ -25,6 +25,8 @@
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilaldogan&" alt="anilaldogan" /></p>
 -->
+<!--
 <p>
 <img width="350px" src="https://github-readme-stats.vercel.app/api?username=anilaldogan&show_icons=true&theme=dark" alt="anilaldogan" />
 </p>
+-->
